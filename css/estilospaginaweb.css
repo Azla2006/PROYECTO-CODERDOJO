@@ -1,0 +1,152 @@
+#imgportada{
+    width: 900px;
+    height: 500px;
+    float: left;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+#bienvenidos{
+    padding-right: 500px;
+    padding-left: 520px;
+    padding-top: 35px;
+    font-family: cursive;
+    background-color: rgb(213, 206, 163);
+    padding-top: 5px;
+    border-style: double;
+}
+#titulo1{
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titulo{
+    font-size: 50px;
+    margin-right: 30px;
+    margin-left: 850px;
+    margin-top: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#imagenlateral{
+    width: 500px;
+    height: 260px;
+    float: right;
+    padding-right: 80px;
+    padding-left: 30px;
+}
+#informacion{
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+#informacion1{
+    padding-left: 100px;
+    padding-top: 0px;
+    font-size: 20px;
+}
+#MIorganizacion{
+    background-color: rgb(173, 231, 146);
+    border-style: double;
+    padding-left: 15px;
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#informacion2{
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+#informacion3{
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+#imagen{
+    width: 500px;
+    height: 350px;
+    float: left;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-left: 100px;
+}
+#propuestas{
+    background-color: rgb(173, 231, 146);
+    border-style: double;
+    padding-left: 15px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lista1{
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+#informacion4{
+    padding-left: 100px;
+    padding-top: 0px;
+    font-size: 20px;
+}
+#lista{
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+#objetivo15{
+    background-color:rgb(173, 231, 146);
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: double;
+}
+#destacables{
+    background-color: rgb(173, 231, 146);
+    border-style: double;
+    padding-left: 15px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table, th, td{
+    border: 2px solid rgb(213, 206, 163);
+    border-collapse: collapse;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#formulario{
+    padding-top: 75px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+#final{
+    padding-top: 250px;
+    padding-left: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#estamos{
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#insta{
+    padding-left: 100px;
+    padding-right: 30px;
+}
+#twitter{
+    padding-right: 30px;
+}
+#facebook{
+    padding-right: 30px;
+}
